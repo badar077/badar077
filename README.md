@@ -16,7 +16,5 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=badar077&theme=dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=badar077&theme=dracula)
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=badar077&theme=dracula&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=badar077&theme=dracula)  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=badar077&theme=dracula&utcOffset=8)
 
