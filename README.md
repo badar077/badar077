@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Badar</h1>
 <h3 align="center">A Professional Front-end Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=badar077&label=Profile%20views&color=0e75b6&style=flat" alt="badar077" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=badar077" alt="badar077" /></a> </p>
-
 - 🔭 I’m currently working on **Something Cool**
 
 - 🌱 I’m currently learning **SvelteKit**
