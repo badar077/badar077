@@ -16,5 +16,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=badar077&theme=dracula)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badar077&" alt="badar077" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=badar077&theme=dracula)
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=badar077&theme=dracula&utcOffset=8)
 
