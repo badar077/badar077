@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Badar</h1>
 <h3 align="center">A Professional Front-end Developer</h3>
-<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 - 🔭 I’m currently working on **Something Cool**
 
@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **ReactJS/ NextJS**
 
-<p align="left">
+<p align="left" width="300">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
