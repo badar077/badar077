@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **SvelteKit**
 
-- 💬 Ask me about **ReactJS/ NextJS**
+- 💬 Ask me about **ReactJS | NextJS**
 
 <p align="left" width="300">
 </p>
